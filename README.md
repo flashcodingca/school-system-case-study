@@ -2,9 +2,22 @@
 
 An AI school management system for student records, school operations, and education workflows.
 
+## Public Case Study
+
+https://flashcoding.ca/projects/webtree-school-system/
+
 ## Live Website
 
 http://school.webtreeedu.com/
+
+## Related AI Assistant
+
+https://aiassistant.webtreeedu.com/
+
+## Built By
+
+Flash Coding  
+https://flashcoding.ca/
 
 ## Project Type
 
